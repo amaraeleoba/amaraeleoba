@@ -14,7 +14,7 @@
 
 ### 🧭 About Me
 
-I'm an AWS Cloud Engineer focused on designing resilient cloud architectures, automating infrastructure delivery, and embedding security and observability into everything I build. This profile is organized as a **portfolio index** — each category below links to a dedicated page with write-ups, architecture diagrams, and project links. My hands-on project work lives in [amaraeleoba/awscloudengineering](https://github.com/amaraeleoba/awscloudengineering), a 9-project progression from foundational infrastructure to fully automated, code-driven cloud operations — mapped into the categories below.
+I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructure and designing resilient cloud architectures, automating infrastructure delivery, and embedding security and observability into everything I build. This profile is organized as a **portfolio index** — each category below links to a dedicated page with write-ups, architecture diagrams, and project links. My hands-on project work lives in [amaraeleoba/awscloudengineering](https://github.com/amaraeleoba/awscloudengineering), a 9-project progression from foundational infrastructure to fully automated, code-driven cloud operations — mapped into the categories below.
 
 - 🔭 Currently working on: *[what you're building right now]*
 - 🌱 Currently learning: *[cert or tech you're studying]*
