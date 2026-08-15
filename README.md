@@ -24,10 +24,10 @@ I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructu
 
 | # | Category | Focus | Link |
 |---|----------|-------|------|
-| 1 | **Static & Dynamic Website Deployment on AWS** | Terraform, CloudFormation, CDK, Pulumi | [View →](https://github.com/amaraeleoba/Static-Dynamic-Website-Deployment-on-AWS) ) |
+| 1 | **Static & Dynamic Website Deployment on AWS** | S3, EC2, VPC, RDS, Application Load Balancer, IAM | [View →](https://github.com/amaraeleoba/Static-Dynamic-Website-Deployment-on-AWS) |
 | 2 | **CI/CD** | Pipeline design, GitHub Actions, CodePipeline, GitLab CI | [View →](https://github.com/amaraeleoba/CI-CD) |
 | 3 | **Scripting & Automation** | Python, Bash, automation of ops workflows | [View →](https://github.com/amaraeleoba/Scripting-Automation) |
-| 4 | **Infrastructure as Code (IaC)** | EC2, S3, VPC, IAM, RDS, Lambda, and more | [View →](https://github.com/amaraeleoba/Infrastructure-as-Code) |
+| 4 | **Infrastructure as Code (IaC)** | Terraform, CloudFormation | [View →](https://github.com/amaraeleoba/Infrastructure-as-Code) |
 | 5 | **Cloud Security** | IAM hardening, encryption, compliance, threat detection | [View →](portfolio/05-cloud-security.md) |
 | 6 | **Cloud Architecture & System Design** | Well-Architected designs, HA/DR, multi-account strategy | [View →](portfolio/06-cloud-architecture-system-design.md) |
 | 7 | **AI & ML Cloud Workloads** | SageMaker, Bedrock, ML pipelines on AWS | [View →](portfolio/07-ai-ml-cloud-workload.md) |
