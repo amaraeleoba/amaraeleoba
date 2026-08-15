@@ -16,7 +16,7 @@
 
 I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructure and designing resilient cloud architectures, automating infrastructure delivery, and embedding security and observability into everything I build. This profile is organized as a **portfolio index** — each category below links to a dedicated page with write-ups, architecture diagrams, and project links. Below are my hands-on project/portfolio work showing progression from foundational infrastructure to fully automated, code-driven cloud operations mapped into the categories below.
 
-
+- 🏆 Certifications: *[AWS Solutions Architect - in progress]*
 
 ---
 
@@ -51,7 +51,6 @@ I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructu
 
 ### 📊 Contact Me
 
-- 📫 Reach me: *[email]* · [LinkedIn](https://linkedin.com/in/your-handle) · [Portfolio site](https://yourdomain.dev)
-- 🏆 Certifications: *[e.g., AWS Solutions Architect – Professional, AWS Security Specialty]*
+- 📫 Reach me: *[email]* · [LinkedIn](https://www.linkedin.com/in/amaraeleoba/) · [email](amaraeleoba80@gmail.com)
 ---
 
