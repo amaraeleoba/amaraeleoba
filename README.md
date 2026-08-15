@@ -32,8 +32,8 @@ I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructu
 | 6 | **Cloud Architecture & System Design** | Cloud Migration, Well-Architected designs, HA/DR, multi-account strategy | [View →](https://github.com/amaraeleoba/Cloud-Architecture-System-Design) |
 | 7 | **AI & ML Cloud Workloads** | SageMaker, Bedrock, ML pipelines on AWS | [View →](https://github.com/amaraeleoba/AI-ML-Cloud-Workload) |
 | 8 | **Containerization & Kubernetes** | Docker, EKS, ECS, ECR, Kubernetes | [View →](https://github.com/amaraeleoba/Containerization-Kubernetes) |
-| 9 | **Monitoring & Observability** | CloudWatch, Prometheus/Grafana, distributed tracing | [View →](portfolio/09-monitoring-observability.md) |
-| 10 | **AI-Native Engineering** | Building with AI copilots, LLM-integrated tooling, agentic workflows | [View →](portfolio/10-ai-native-engineer.md) |
+| 9 | **Monitoring & Observability** | CloudWatch, Prometheus/Grafana, distributed tracing | [View →](https://github.com/amaraeleoba/Monitoring-Observability) |
+| 10 | **AI-Native Engineering** | Building with AI, LLM-integrated tooling, agentic workflows | [View →](https://github.com/amaraeleoba/AI-Native-Engineering) |
 
 ---
 
