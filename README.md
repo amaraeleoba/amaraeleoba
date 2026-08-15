@@ -28,7 +28,7 @@ I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructu
 | 2 | **CI/CD** | Pipeline design, GitHub Actions, CodePipeline, GitLab CI | [View →](https://github.com/amaraeleoba/CI-CD) |
 | 3 | **Scripting & Automation** | Python, Bash, automation of ops workflows | [View →](https://github.com/amaraeleoba/Scripting-Automation) |
 | 4 | **Infrastructure as Code (IaC)** | Terraform, CloudFormation | [View →](https://github.com/amaraeleoba/Infrastructure-as-Code) |
-| 5 | **Cloud Security** | IAM hardening, encryption, compliance, threat detection | [View →](portfolio/05-cloud-security.md) |
+| 5 | **Cloud Security** | IAM hardening, encryption, compliance, threat detection | [View →](https://github.com/amaraeleoba/Cloud-Security) |
 | 6 | **Cloud Architecture & System Design** | Well-Architected designs, HA/DR, multi-account strategy | [View →](portfolio/06-cloud-architecture-system-design.md) |
 | 7 | **AI & ML Cloud Workloads** | SageMaker, Bedrock, ML pipelines on AWS | [View →](portfolio/07-ai-ml-cloud-workload.md) |
 | 8 | **Containerization & Kubernetes** | Docker, EKS, Helm, service mesh | [View →](portfolio/08-containerization-kubernetes.md) |
