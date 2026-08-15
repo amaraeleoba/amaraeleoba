@@ -16,11 +16,7 @@
 
 I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructure and designing resilient cloud architectures, automating infrastructure delivery, and embedding security and observability into everything I build. This profile is organized as a **portfolio index** — each category below links to a dedicated page with write-ups, architecture diagrams, and project links. My hands-on project work lives in [amaraeleoba/awscloudengineering](https://github.com/amaraeleoba/awscloudengineering), a 9-project progression from foundational infrastructure to fully automated, code-driven cloud operations — mapped into the categories below.
 
-- 🔭 Currently working on: *[what you're building right now]*
-- 🌱 Currently learning: *[cert or tech you're studying]*
-- 💬 Ask me about: AWS, IaC, Kubernetes, CI/CD, cloud security
-- 📫 Reach me: *[email]* · [LinkedIn](https://linkedin.com/in/your-handle) · [Portfolio site](https://yourdomain.dev)
-- 🏆 Certifications: *[e.g., AWS Solutions Architect – Professional, AWS Security Specialty]*
+
 
 ---
 
@@ -53,13 +49,9 @@ I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructu
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub streak" />
-</p>
-
+- 📫 Reach me: *[email]* · [LinkedIn](https://linkedin.com/in/your-handle) · [Portfolio site](https://yourdomain.dev)
+- 🏆 Certifications: *[e.g., AWS Solutions Architect – Professional, AWS Security Specialty]*
 ---
 
-<p align="center"><i>Each category page above follows the same template: Overview → Key Skills → Featured Projects → Resources. Click into any one to see real examples.</i></p>
