@@ -51,6 +51,6 @@ I'm an AWS Cloud Engineer focused on building secure scalable cloud infrastructu
 
 ### 📊 Contact Me
 
-- 📫 Reach me: *[email]* · [LinkedIn](https://www.linkedin.com/in/amaraeleoba/) · [email] amaraeleoba80@gmail.com
+- 📫 Reach me: *[Linkedin]* · [LinkedIn](https://www.linkedin.com/in/amaraeleoba/) · [email] amaraeleoba80@gmail.com
 ---
 
