@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amara Eleoba👋</h1>
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 <h3 align="center">GRC Analyst | PCI DSS Compliance | Cloud Security Governance (Azure)</h3>
 
 <p align="center">
@@ -103,7 +103,3 @@ I'm currently employed and **open to new opportunities** in GRC, PCI DSS complia
 </p>
 
 > *Open to GRC, PCI DSS compliance, and cloud security governance roles. Always happy to talk payment security, Azure compliance, or risk frameworks.*
-
-- 📫 Reach me: *[Linkedin]* · [LinkedIn](https://www.linkedin.com/in/amaraeleoba/) · [email] amaraeleoba80@gmail.com
----
-
