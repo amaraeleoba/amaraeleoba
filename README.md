@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Amara Eleoba 👋</h1>
 <h3 align="center">GRC Analyst | PCI DSS Compliance | Cloud Governance & Risk | PCIP (In Progress)</h3>
 
 <p align="center">
