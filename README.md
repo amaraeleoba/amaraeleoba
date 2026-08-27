@@ -12,10 +12,10 @@
 I'm a Governance, Risk & Compliance (GRC) professional focused on turning security requirements into practical, auditable programs. I bridge the gap between security teams, business stakeholders, and auditors — building controls that reduce real risk, not just check boxes.
 
 - 🔍 Currently working on: Risk assessments, control mapping, and audit readiness for **[frameworks — e.g., SOC 2, ISO 27001]**
-- 🌱 Currently learning: **[e.g., NIST CSF 2.0, cloud security fundamentals, GRC automation tools]**
+- 🌱 Currently learning: **[cloud security, DevSecOps, GRC Compliance Automation]**
 - 💼 Experience with: Risk registers, policy development, vendor risk assessments, evidence collection, remediation tracking
 - 🤝 Open to: GRC/compliance roles, collaboration on security documentation tooling, and connecting with fellow risk & security folks
-- 📫 Reach me: **[email]** | **[LinkedIn]**
+- 📫 Reach me: **amaraeleoba80@gmail.com** | **[https://www.linkedin.com/in/amaraeleoba/]**
 
 ---
 
