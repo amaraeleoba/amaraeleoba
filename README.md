@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Amara Eleoba</h1>
 <h3 align="center">GRC Analyst | Security Compliance • Risk & Controls • Audit Readiness</h3>
 
 <p align="center">
