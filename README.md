@@ -44,10 +44,10 @@ I've managed PCI DSS compliance programs through the full **v3.2.1 → v4.0.1** 
 
 > _Add links here to repos, templates, or writeups you're comfortable sharing publicly — e.g. sanitized risk assessment templates, PCI DSS control mapping spreadsheets, cloud governance checklists, or audit prep guides._
 
-- [ ] 🔗 PCI DSS v4.0.1 Control Mapping Template
-- [ ] 🔗 Cloud CDE Scoping Checklist
-- [ ] 🔗 Vendor Risk Assessment Framework
-
+- 🔗 [PCI DSS Network Segmentation](https://github.com/your-username/pci-dss-network-segmentation)
+- 🔗 [PCI DSS Implementation](https://github.com/your-username/pci-dss-implementation)
+- 🔗 [PCI DSS Network Segmentation](https://github.com/your-username/pci-dss-network-segmentation)
+- 🔗 [PCI DSS Implementation](https://github.com/your-username/pci-dss-implementation)
 ---
 
 ### 📫 Let's Connect
