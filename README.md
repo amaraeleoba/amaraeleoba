@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Amara Eleoba</h1>
 <h3 align="center">Managing Cyber & Tech Risk from Identification to Closure</h3>
 <p align="center">NIST CSF · ISO 27001 · PCI DSS · NYDFS</p>
 
