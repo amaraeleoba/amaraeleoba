@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amara Eleoba</h1>
-<h3 align="center">GRC Analyst | Security Compliance • Risk & Controls • Audit Readiness</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Cyber & Technology Risk Senior Specialist | GRC, Incident Management & Control Remediation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,64 +7,43 @@
 
 ---
 
-### 🧭 About Me
+### 🎯 About Me
 
-I'm a Governance, Risk & Compliance (GRC) professional focused on turning security requirements into practical, auditable programs. I bridge the gap between security teams, business stakeholders, and auditors — building controls that reduce real risk, not just check boxes.
+I help organizations close the gap between **"we have a policy"** and **"we're actually protected."**
 
-- 🔍 Currently working on: Risk assessments, control mapping, and audit readiness for **[frameworks: PCI DSS, ISO 27001]**
-- 🌱 Currently learning: **[cloud security, DevSecOps, GRC Compliance Automation]**
-- 💼 Experience with: Security Compliance, Risk registers, policy development, vendor risk assessments, evidence collection, remediation tracking
-- 🤝 Open to: GRC/compliance roles, collaboration on security documentation tooling, and connecting with fellow risk & security folks
-- 📫 Reach me: **amaraeleoba80@gmail.com** | **[https://www.linkedin.com/in/amaraeleoba/]**
+I manage the full lifecycle of technology and cyber incidents — from identification through audit-ready closure — and validate PCI scope across enterprise environments to reduce risk without compromising compliance.
 
----
-
-### 🛡️ Frameworks & Standards
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SOC%202-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ISO%2027001-2EA043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NIST%20CSF-D29922?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HIPAA-8250DF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PCI%20DSS-CF222E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GDPR-238636?style=for-the-badge" />
-</p>
-
-### 🧰 Tools & Tech
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vanta-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Drata-6C4CDF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+- 🔭 Currently focused on: **Cyber Risk Management, GRC, and Technology Risk**
+- 🌱 Frameworks I work with: **NIST CSF · ISO 27001 · PCI DSS · NYDFS**
+- 🤝 Open to connecting with: **Risk, Compliance, InfoSec & Audit professionals**
+- 📫 Reach me: **[your.email@example.com]**
+- 📄 Resume / Portfolio: **[link to resume or personal site]**
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Core Expertise
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
+| Area | Details |
 |---|---|
-| **[Repo Name]** | Short description — e.g., "Risk assessment template built for SaaS startups" |
-| **[Repo Name]** | Short description — e.g., "Control mapping tool: SOC 2 ↔ ISO 27001 crosswalk" |
-| **[Repo Name]** | Short description — e.g., "Python script for automating evidence collection tracking" |
+| **Risk Management** | Incident lifecycle management, root cause analysis, impact assessments |
+| **Compliance Frameworks** | NIST CSF, ISO 27001, PCI DSS (v3.2.1 & v4.0), NYDFS |
+| **Remediation & Reporting** | Cross-team remediation tracking, KRI/KPI dashboards, SLA escalation |
+| **Assessments** | PCI scope validation, segmentation control review, CDE boundary confirmation |
+| **Stakeholder Collaboration** | Partnering with IT, InfoSec, Compliance, Audit, and Business teams |
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" />
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center"><i>Compliance isn't a checkbox — it's a system. Let's build one that actually works.</i></p>
+---
+
+<p align="center"><i>"Closing the gap between policy and protection."</i></p>
