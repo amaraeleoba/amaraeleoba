@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Cyber & Technology Risk Senior Specialist | GRC, Incident Management & Control Remediation</h3>
+<h3 align="center">Managing Cyber & Tech Risk from Identification to Closure</h3>
+<p align="center">NIST CSF · ISO 27001 · PCI DSS · NYDFS</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -33,6 +34,17 @@ I manage the full lifecycle of technology and cyber incidents — from identific
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **PCI DSS Compliance Checklist Toolkit** | Templates and scripts for tracking PCI DSS v4.0 requirement status, evidence collection, and gap remediation | [Repo Link](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-1) |
+| **Cyber Incident Response Tracker** | Lightweight tool/spreadsheet model for logging incident lifecycle stages, SLA timers, and escalation status | [Repo Link](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-2) |
+| **Risk-to-Control Mapping Matrix** | Framework crosswalk mapping NIST CSF, ISO 27001, and PCI DSS controls to internal policy requirements | [Repo Link](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-3) |
+| **KRI/KPI Dashboard Template** | Reporting template for visualizing key risk indicators and control performance metrics for stakeholder updates | [Repo Link](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-4) |
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="left">
@@ -46,4 +58,4 @@ I manage the full lifecycle of technology and cyber incidents — from identific
 
 ---
 
-<p align="center"><i>"Closing the gap between policy and protection."</i></p>
+<p align="center"><i>"From risk identified to risk resolved."</i></p>
