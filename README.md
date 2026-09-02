@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Amara Eleoba👋</h1>
 <h3 align="center">GRC & Security Compliance Analyst | ISO 27001 • SOC 2 • PCI-DSS • SOX • TPRM | Cyber & IT Risk</h3>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ### 🎯 About Me
 
-I help organizations reduce risk, pass audits, and build security programs that actually hold up under scrutiny. My focus is Governance, Risk, and Compliance (GRC) — translating regulatory and framework requirements into practical controls that IT, security, and business teams can operationalize.
+I help organizations reduce risk, pass audits, and build security programs that actually hold up under scrutiny. My focus is Governance, Risk, and Compliance (GRC) translating regulatory and framework requirements into practical controls that IT, security, and business teams can operationalize.
 
 I'm comfortable moving between the technical (control frameworks, evidence gathering, risk scoring methodologies) and the strategic (communicating risk posture to leadership, building compliance roadmaps).
 
-Currently focused on opportunities in **GRC, Cyber Risk, Compliance, SOX/IT Audit, and Security Analyst/Consultant roles.**
+Currently focused on contract opportunities in **GRC, Cyber Risk, Compliance, SOX/IT Audit, and Security Analyst/Consultant roles.**
 
 ---
 
